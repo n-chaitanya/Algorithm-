@@ -22,8 +22,6 @@ Enter the marks obtained in maths90\
 Enter the marks obtained in physics78\
 Enter the marks obtained in chemistry67\
 Enter the marks obtained in english78\
-Enter the marks obtained in Social Studies77\
-The percentage obtained is\
 The percentage obtained is\
 78.0\
 You got 2nd class marks.
