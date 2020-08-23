@@ -1,6 +1,6 @@
 ## Algorithm
 ### AIM:
-Write the program and algorithm for providing the grades of students ina class.\
+Write the program and algorithm for providing the grades of students ina class.
 ### ALGORITHM:
 Step 1 : Start
 Step 2 : So that anyone viewing the program briefly understands about the program put a print statement saying enter the marks out of 100.\
