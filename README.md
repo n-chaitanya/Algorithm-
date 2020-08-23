@@ -26,4 +26,4 @@ Enter the marks obtained in Social Studies77\
 The percentage obtained is\
 The percentage obtained is\
 78.0\
-You got 2nd class marks.\
+You got 2nd class marks.
