@@ -4,7 +4,6 @@ phy = eval(input("Enter the marks obtained in physics"))
 chem = eval(input("Enter the marks obtained in chemistry"))
 eng = eval(input("Enter the marks obtained in english"))
 ss = eval(input("Enter the marks obtained in Social Studies"))
-print("The percentage obtained is")
 p = (( maths + phy + chem + eng + ss )/500) * 100
 print('The percentage obtained is')
 print(p)
